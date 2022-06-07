@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adityasekharbej/web16c3.git"
+    "url": "git+https://github.com/NikeshBorkar/web16c3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adityasekharbej/web16c3/issues"
+    "url": "https://github.com/NikeshBorkar/web16c3/issues"
   },
-  "homepage": "https://github.com/adityasekharbej/web16c3#readme",
+  "homepage": "https://github.com/NikeshBorkar/web16c3#readme",
   "dependencies": {
     "express": "^4.18.1",
     "nanoid": "^3.3.4",
